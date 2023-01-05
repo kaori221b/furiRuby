@@ -16,3 +16,6 @@ https://docs.github.com/ja/desktop/contributing-and-collaborating-using-github-d
 <li>2022/12/26：print putsなどの表示理解</li>
 <li>2022/12/27：四則演算</li>
 </ul>
+
+1/1~1/4コロナ療養で一旦休み。<br>
+1/5からちょっとずつ再開。
